@@ -1,6 +1,6 @@
-# Projeto Flutter Conversor de Moedas
+# Projeto Flutter Criação ToDoList
 
-Novo projeito de Flutter iniciante - Converte real, dolar e euro.
+Novo projeito de Flutter iniciante - Criando To Do List
 
 ## Getting Started
 
